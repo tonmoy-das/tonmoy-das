@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Tonmoy Das</h1>
 
-- 👨‍💻 I’m interested in Coding
-- ✉️ How to reach me [tonmoydas555@gmail.com](mailto:tonmoydas555@gmail.com)
+- I’m interested in Coding
+- How to reach me [tonmoydas555@gmail.com](mailto:tonmoydas555@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <hr/>
